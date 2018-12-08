@@ -10,7 +10,5 @@ public class Rock : DropItem {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
-	}
+	
 }
