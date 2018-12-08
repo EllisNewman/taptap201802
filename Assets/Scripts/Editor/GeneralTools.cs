@@ -26,7 +26,7 @@ public class GeneralTools {
     public void RunGame()
     {
         if (!EditorApplication.isPlaying)
-            EditorSceneManager.OpenScene("Assets/Scenes/Scene1.unity");
+            EditorSceneManager.OpenScene("Assets/Scenes/Scene.unity");
         EditorApplication.isPlaying = !EditorApplication.isPlaying;
     }
 
